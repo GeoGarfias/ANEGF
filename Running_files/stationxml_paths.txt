@@ -1,0 +1,3 @@
+/Volumes/GeoPhysics_30/users-data/salsa/ZX.SALSA.2024193.xml
+/Users/home/juarezilma/PhD/Green/Running_files/GeoNet_inventory.xml
+/Users/home/juarezilma/PhD/Green/Running_files/Canterbury_StrongMotion_inventory.xml
